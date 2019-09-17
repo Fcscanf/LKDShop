@@ -1,7 +1,17 @@
 package com.fcant.shop.bean;
 
+import lombok.Data;
+
 import java.util.Date;
 
+/**
+ * ShopCart
+ *
+ * encoding:UTF-8
+ * @author Fcant
+ * @date 下午 23:19 2019-09-16/0016
+ */
+@Data
 public class ShopCart {
     /**
      *
